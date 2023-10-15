@@ -41,3 +41,37 @@ After installing Git, you should configure your username and email address. Open
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
+```
+
+## Basic Git Concepts
+
+### Repositories: 
+ A Git repository is a directory that contains all the files and history for a project.
+### Commits: 
+Commits are snapshots of your project at a specific point in time. Each commit has a unique identifier and contains changes made to the files in the repository. So that you can always go back when you make mistakes.
+### Branches: 
+Branches are independent lines of development in Git. You can create a new branch to work on a feature or bug fix without affecting the main codebase.
+### Merging: 
+Merging is the process of combining changes from one branch into another.
+
+
+
+
+```bash
+git commit -m "your commit message"
+```
+
+```bash
+git init
+#start coding and add files here
+#go to github and create an empty repo
+git remote add origin https://github.com/your-username/your-repo-name.git
+git add .
+git commit -m "upload to github"
+git push -u origin main
+```
+
+
+```bash
+git clone
+```
