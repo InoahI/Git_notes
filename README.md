@@ -7,18 +7,17 @@ This tutorial guides you through the basics of using Git.
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
 3. [Basic Git Concepts](#basic-git-concepts)
-4. [Git Workflow](#git-workflow)
-5. [Git Commands](#git-commands)
+4. [Git Commands](#git-commands)
     - [Initializing a Repository](#initializing-a-repository)
     - [Tracking Changes](#tracking-changes)
     - [Branching and Merging](#branching-and-merging)
     - [Remote Repositories](#remote-repositories)
     - [Undoing Changes](#undoing-changes)
-6. [Collaboration](#collaboration)
+5. [Collaboration](#collaboration)
     - [Cloning a Repository](#cloning-a-repository)
     - [Pushing and Pulling](#pushing-and-pulling)
     - [Pull Requests](#pull-requests)
-7. [Advanced Topics](#advanced-topics)
+6. [Advanced Topics](#advanced-topics)
     - [Rebasing](#rebasing)
     - [Git Hooks](#git-hooks)
 8. [Best Practices](#best-practices)
@@ -54,8 +53,9 @@ Branches are independent lines of development in Git. You can create a new branc
 ### Merging: 
 Merging is the process of combining changes from one branch into another.
 
+## Git Commands
 
-
+### Initializing a Repository
 
 ```bash
 git commit -m "your commit message"
