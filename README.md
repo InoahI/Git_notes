@@ -1,4 +1,10 @@
+<img src="https://github.com/InoahI/Git_notes/assets/135188637/1991a108-64a6-4ba7-929e-f8d77df5d214" width="200">
+
 # Git Notes
+
+Git Logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
+
+
 
 This guide introduces the basics of using Git, offering a corresponding command cheatsheet. If you're unfamiliar with any commands, consult the official documentation by executing the command below:
 ```bash
